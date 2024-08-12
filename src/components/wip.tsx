@@ -43,7 +43,6 @@ export default function Wip() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-blue-500 via-blue-300 to-green-300">
       <div className="bg-white rounded-3xl shadow-2xl p-8 w-72 border-4 border-opacity-30 border-blue-200 pb-2">
         <div className="text-center relative">
-          <div className="absolute top-0 left-0 w-full h-full bg-blue-100 rounded-full opacity-30 transform scale-75"></div>
           <Image
             src="/cat-svgrepo-com-1.svg"
             alt="WIP"
